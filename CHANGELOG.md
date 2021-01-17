@@ -1,5 +1,6 @@
 ## 20210117
-* 更新OpenClash到clash-linux-armv8-2021.01.01.g0ab75c5.gz
+* 更新clash至clash-linux-armv8-v1.3.5.gz
+* 更新OpenClash至clash-linux-armv8-2021.01.01.g0ab75c5.gz
 
 ## 20201102
 * 常规更新
